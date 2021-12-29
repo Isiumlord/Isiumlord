@@ -1,5 +1,4 @@
-E M  -  C O N S T R U Ç Ã O
-
+<h3>I S I D O R O</h3>  
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90477517/146849618-78a3355a-4947-471e-8d7c-ead5141cef17.png" width="0px" />
+        <P>primeiro de seu nome, Contador de Histórias, Ilustrador Casual, PythonBoy, Engenheiro de Dados Recém Formado, Rei dos Sucessos!</P>
 </div>
